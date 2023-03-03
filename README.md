@@ -1,8 +1,10 @@
-# teams-chatgpt-js
+# teams-chatgpt-js 🤖
 
-Sample bot to demonstrate how to integrate with the new gpt-3.5 turbo model that power ChatGPT
+Sample bot to demonstrate how to integrate with the new gpt-3.5 turbo model that powers ChatGPT.
 
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and runs it via the newly released [gpt-3.5-turbo model](https://platform.openai.com/docs/guides/chat/introduction) that powers ChatGPT to respond to the user.
+
+![image](https://user-images.githubusercontent.com/4107912/222666067-4687a0df-ba5e-4cbc-bc15-07e447e61978.png)
 
 ## Prerequisites
 
