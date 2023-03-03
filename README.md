@@ -6,6 +6,8 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 
 ![image](https://user-images.githubusercontent.com/4107912/222666067-4687a0df-ba5e-4cbc-bc15-07e447e61978.png)
 
+[Demo video on YouTube](https://youtu.be/-_ufRhp1WXc)
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org) version 10.14.1 or higher
