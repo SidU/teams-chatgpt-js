@@ -19,6 +19,8 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 
 ## To run the bot
 
+- Make a copy of .env.example to .env, get your OpenAI key from https://beta.openai.com/account/api-keys and paste it in the .env file.
+
 - Install modules
 
     ```bash
